@@ -1,4 +1,4 @@
-#🍜 Ramen Rating Prediction 
+# Ramen Rating Prediction 🍜
 ## Overview
 Project uses dataset from Kaggle that includes ratings of various instant ramen flavours all over the world. Using a machine learing model, you can predict what rating should get your favourite ramen based on its flavour profile, country of origin, brand and packaging!
 
